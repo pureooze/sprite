@@ -44,8 +44,8 @@ public class game extends JFrame {
 		animated.addScene(open, 250);
 		animated.addScene(close, 250);
 		
-		sprite.setVelocityX(0.3f);
-		sprite.setVelocityY(0.3f);
+		sprite.setVelocityX(0.1f);
+		sprite.setVelocityY(0.1f);
 	}
 	
 	//main method called from main
